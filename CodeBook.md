@@ -1,17 +1,17 @@
 ###                          DATA DICTIONARY
 ###                       HUMAN ACTIVITY RECOGNITION
 
-## This data set is the average of features that represent mean or standard deviation
-## in the original data set for human activity recognition  using smart phones datasets
-## for every combination of activity name & subject ID
+This data set is the average of features that represent mean or standard deviation
+in the original data set for human activity recognition  using smart phones datasets
+for every combination of activity name & subject ID
 
-The original data collected from the accelerometers from the Samsung Galaxy S smartphone.
+The original data was collected from the accelerometers from the Samsung Galaxy S smartphone.
  
 
 Note: The activity was represented as factors from 1-6 in the original data set.
 The factors have been replaced by the descriptive activity labels
 
-List of features:
+## List of features:
 
 
 Activity Name: is one of the following activities
